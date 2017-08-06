@@ -32,15 +32,16 @@ GNMT (Google Neural Machine Translation) adalah sistem penerjemahan mesin yang d
 
 #### Bahasa Inggris ke Bahasa Indonesia
 
-| Sistem   | campur     | huruf kecil |
-| -------- |:---------- |:----------- |
-| GNMT     | 59.14      | 59.99       |
-| GARENG   | **61.48**  | **62.35**   |
+| Sistem   | Huruf campur | Huruf kecil |
+| -------- |:------------ |:----------- |
+| GNMT     | 59.14        | 59.99       |
+| GARENG   | **61.48**    | **62.35**   |
 
 #### Bahasa Indonesia ke Bahasa Inggris
 
-| Sistem   | campur     | huruf kecil |
-| -------- |:---------- |:----------- |
-| GNMT     | 66.90      | 67.43       |
-| GARENG   | **68.50**  | **69.00**   |
+| Sistem   | Huruf campur | Huruf kecil |
+| -------- |:------------ |:----------- |
+| GNMT     | 66.90        | 67.43       |
+| GARENG   | **68.50**    | **69.00**   |
+
 

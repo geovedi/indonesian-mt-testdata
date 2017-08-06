@@ -2,7 +2,7 @@
 
 Ini adalah gudang penyimpanan data yang dikhususkan untuk proyek penelitian dan pengembangan teknologi penerjemahan mesin dari dan ke bahasa Indonesia (GARENG). Hanya data uji yang tersimpan di sini. Data latih yang digunakan masih bersifat privat dan belum dapat dibuat publik dengan alasan perizinan.
 
-Proyek penelitian dan pengembangan teknologi GARENG adalah kerjasama [Rekanalar](http://rekanalar.com) dan [Beritagar](https://beritagar.id).
+Proyek penelitian dan pengembangan sistem penerjemahan mesin GARENG adalah kerjasama antara [Rekanalar](http://rekanalar.com) dan [Beritagar](https://beritagar.id).
 
 ### Isi
 
